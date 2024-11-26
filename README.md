@@ -7,7 +7,7 @@
 
 
 ![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianovital-dev&show_icons=true&theme=transparent)
-	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+[	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovital-dev&theme=dark-white)
 
 ## Tecnologias que uso no meu dia
 
