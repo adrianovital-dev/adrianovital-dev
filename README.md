@@ -1,5 +1,7 @@
 ### Olá! Eu sou Adriano Vital 🔙🔚
 
+Sou desenvolvedor em formação com foco em Front-End, criando interfaces intuitivas com HTML, CSS e JavaScript. Com mais de 12 anos de experiência em Administração e Finanças, sou pós-graduado em Auditoria e Finanças e trago uma visão analítica e orientada a resultados para a tecnologia. Também atuei em vendas e implantação de software, desenvolvendo habilidades em comunicação, suporte técnico e negociação.
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5527996476519)
 [![WebSite](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=About.me&logoColor=white)](https:www.adrianovital.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianovital/)
