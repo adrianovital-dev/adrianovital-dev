@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianovital/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianoavital)
 
-
+![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovital-dev&theme=dark-white)
 ![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianovital-dev&show_icons=true&theme=transparent)
 
 
@@ -22,8 +22,6 @@
     <img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     
 </div><br/>
-
-![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovital-dev&theme=dark-white)
 
 Reciprocidade e a base de tudo!
 
