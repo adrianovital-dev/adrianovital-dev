@@ -7,7 +7,7 @@
 
 
 ![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianovital-dev&show_icons=true&theme=transparent)
-![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovital-dev&theme=dark-white)
+
 
 
 
@@ -21,10 +21,8 @@
     <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     
-    
-
 </div><br/>
-
+![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovital-dev&theme=dark-white)
 Reciprocidade e a base de tudo!
 
 ## Proximas Tecnologias:
