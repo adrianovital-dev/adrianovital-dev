@@ -22,7 +22,9 @@
     <img align="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     
 </div><br/>
+
 ![Adriano Vital-Dev GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianovital-dev&theme=dark-white)
+
 Reciprocidade e a base de tudo!
 
 ## Proximas Tecnologias:
