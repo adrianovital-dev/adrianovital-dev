@@ -29,7 +29,6 @@ suporte técnico e negociação.
     
 </div><br/>
 
-Reciprocidade e a base de tudo!
 
 ## Proximas Tecnologias:
 - Projetos Html5/CSS3/JavaScript para meu portifolio: <i> (Em andamento)</i>
