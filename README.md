@@ -1,6 +1,6 @@
 ### Hello World! 😄
 
-### Olá! Eu sou Adriano Vital 🔙🔚
+### Olá! Eu sou Adriano Vital
 
 Sou desenvolvedor em formação com foco em Front-End, criando interfaces intuitivas com HTML, CSS , Bootstrap, WordPress e JavaScript.
 Com mais de 12 anos de experiência em Administração e Finanças, sou pós-graduado em Auditoria e Finanças e trago uma visão analítica 
